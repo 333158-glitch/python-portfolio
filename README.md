@@ -1,16 +1,18 @@
-# ProGrip Esports Controllers
+# Test Score Prediction AI
 
 ## Problem
-Competitive gamers need controllers that are comfortable, durable, and customizable, but many options are either too expensive or not designed with esports performance in mind. This makes it harder for players to perform consistently.
+I wanted to see if a computer could predict a student’s test score based on how long they studied and how much they slept.
 
 ## Solution
-ProGrip Esports Controllers is a project focused on designing and planning a high-performance gaming controller made for competitive play. The project explores ergonomic design, button layout, and customization ideas to improve comfort and in-game performance.
+I created a small dataset and trained a machine learning model that looks for patterns between study time, sleep, and test scores.
 
 ## Tools
-Research and design planning, controller performance analysis, documentation, and basic prototyping concepts.
+Python  
+pandas  
+scikit-learn  
 
 ## Results
-The project produced a clear controller concept with defined features aimed at esports players, including improved grip, layout ideas, and customization options. This showed how thoughtful design can impact competitive gaming performance.
+The AI was able to predict a test score for a student who studied 6 hours and slept 8 hours.
 
 ## Learning
-I learned how product design decisions affect user performance and how to clearly explain a technical idea in a simple, professional way.
+I learned how machine learning models use data to make predictions and how to build and publish an AI project using Python.
